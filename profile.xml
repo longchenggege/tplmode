@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <taglib>
+	    <name>long</name>
+        <value>龙哥哥</value>
+	</taglib>
+	<taglib>
+	    <name>guan</name>
+        <value>广清</value>
+	</taglib>
+</root>
